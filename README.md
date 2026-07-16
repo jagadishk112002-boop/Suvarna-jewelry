@@ -1,4 +1,4 @@
-# Suvarna Jewelry - E-Commerce Web Application
+# KANAK jewellery - E-Commerce Web Application
 
 A modern React-based e-commerce website for premium Indian jewelry retail featuring inventory management, payment integration, and a seamless shopping experience.
 
